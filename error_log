@@ -1,0 +1,40 @@
+[07-May-2015 03:54:07 UTC] PHP Fatal error:  Call to undefined function renderShipType() in /home/dharmendra2014/public_html/parts-ordering/program-director-dashboard.php on line 225
+[07-May-2015 03:54:13 UTC] PHP Fatal error:  Call to undefined function renderShipType() in /home/dharmendra2014/public_html/parts-ordering/program-director-dashboard.php on line 225
+[13-Nov-2015 00:19:24 America/Los_Angeles] PHP Warning:  require_once(../Classes/PHPExcel/IOFactory.php): failed to open stream: No such file or directory in /home/dharmendra2014/public_html/parts-ordering/staging/import-ProgramDirectors.php on line 6
+[13-Nov-2015 00:19:24 America/Los_Angeles] PHP Fatal error:  require_once(): Failed opening required '../Classes/PHPExcel/IOFactory.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dharmendra2014/public_html/parts-ordering/staging/import-ProgramDirectors.php on line 6
+[13-Nov-2015 00:20:45 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'PHPExcel_Reader_Exception' with message 'Could not open excel/ProgramDirectors.xlsx for reading! File does not exist.' in /home/dharmendra2014/public_html/Classes/PHPExcel/Reader/Excel2007.php:82
+Stack trace:
+#0 /home/dharmendra2014/public_html/Classes/PHPExcel/IOFactory.php(268): PHPExcel_Reader_Excel2007->canRead('excel/ProgramDi...')
+#1 /home/dharmendra2014/public_html/Classes/PHPExcel/IOFactory.php(191): PHPExcel_IOFactory::createReaderForFile('excel/ProgramDi...')
+#2 /home/dharmendra2014/public_html/parts-ordering/staging/import-ProgramDirectors.php(8): PHPExcel_IOFactory::load('excel/ProgramDi...')
+#3 {main}
+  thrown in /home/dharmendra2014/public_html/Classes/PHPExcel/Reader/Excel2007.php on line 82
+[14-Nov-2015 02:31:03 America/Los_Angeles] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/dharmendra2014/public_html/parts-ordering/staging/orders-placed.php on line 149
+[14-Nov-2015 02:33:29 America/Los_Angeles] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/dharmendra2014/public_html/parts-ordering/staging/orders-placed.php on line 151
+[14-Nov-2015 02:36:13 America/Los_Angeles] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/dharmendra2014/public_html/parts-ordering/staging/orders-placed.php on line 151
+[14-Nov-2015 08:00:07 America/Los_Angeles] PHP Fatal error:  Call to undefined function address() in /home/dharmendra2014/public_html/parts-ordering/staging/view-order-placed.php on line 141
+[19-Nov-2015 07:50:21 America/Los_Angeles] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/dharmendra2014/public_html/parts-ordering/staging/request-address-change.php on line 197
+[20-Nov-2015 14:45:23 America/Los_Angeles] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/dharmendra2014/public_html/parts-ordering/staging/reset-password.php on line 90
+[24-Nov-2015 15:14:11 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'PHPExcel_Reader_Exception' with message 'Could not open excel/SechristUserImport.xls for reading! File does not exist.' in /home/dharmendra2014/public_html/Classes/PHPExcel/Reader/Excel5.php:402
+Stack trace:
+#0 /home/dharmendra2014/public_html/Classes/PHPExcel/IOFactory.php(268): PHPExcel_Reader_Excel5->canRead('excel/SechristU...')
+#1 /home/dharmendra2014/public_html/Classes/PHPExcel/IOFactory.php(191): PHPExcel_IOFactory::createReaderForFile('excel/SechristU...')
+#2 /home/dharmendra2014/public_html/parts-ordering/staging/import-ProgramDirectors.php(8): PHPExcel_IOFactory::load('excel/SechristU...')
+#3 {main}
+  thrown in /home/dharmendra2014/public_html/Classes/PHPExcel/Reader/Excel5.php on line 402
+[24-Nov-2015 15:14:41 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'PHPExcel_Reader_Exception' with message 'Could not open excel/SechristUserImport.xls for reading! File does not exist.' in /home/dharmendra2014/public_html/Classes/PHPExcel/Reader/Excel5.php:402
+Stack trace:
+#0 /home/dharmendra2014/public_html/Classes/PHPExcel/IOFactory.php(268): PHPExcel_Reader_Excel5->canRead('excel/SechristU...')
+#1 /home/dharmendra2014/public_html/Classes/PHPExcel/IOFactory.php(191): PHPExcel_IOFactory::createReaderForFile('excel/SechristU...')
+#2 /home/dharmendra2014/public_html/parts-ordering/staging/import-ProgramDirectors.php(8): PHPExcel_IOFactory::load('excel/SechristU...')
+#3 {main}
+  thrown in /home/dharmendra2014/public_html/Classes/PHPExcel/Reader/Excel5.php on line 402
+[30-Nov-2015 11:20:11 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'PHPExcel_Reader_Exception' with message 'Could not open excel/SechristUserImport.xls for reading! File does not exist.' in /home/dharmendra2014/public_html/Classes/PHPExcel/Reader/Excel5.php:402
+Stack trace:
+#0 /home/dharmendra2014/public_html/Classes/PHPExcel/IOFactory.php(268): PHPExcel_Reader_Excel5->canRead('excel/SechristU...')
+#1 /home/dharmendra2014/public_html/Classes/PHPExcel/IOFactory.php(191): PHPExcel_IOFactory::createReaderForFile('excel/SechristU...')
+#2 /home/dharmendra2014/public_html/parts-ordering/staging/import-ProgramDirectors.php(8): PHPExcel_IOFactory::load('excel/SechristU...')
+#3 {main}
+  thrown in /home/dharmendra2014/public_html/Classes/PHPExcel/Reader/Excel5.php on line 402
+[29-Dec-2015 12:27:22 America/Los_Angeles] PHP Warning:  require_once(../../Classes/PHPExcel/IOFactory.php): failed to open stream: No such file or directory in /home/dharmendra2014/public_html/parts-ordering/import-ProgramDirectors.php on line 6
+[29-Dec-2015 12:27:22 America/Los_Angeles] PHP Fatal error:  require_once(): Failed opening required '../../Classes/PHPExcel/IOFactory.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dharmendra2014/public_html/parts-ordering/import-ProgramDirectors.php on line 6
