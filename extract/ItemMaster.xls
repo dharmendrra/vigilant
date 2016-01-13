@@ -1,0 +1,205 @@
+ItemID	EquipmentID	Equipment	PartNumber	ItemDescription	MaxUnit	ApprovalReq
+1	3	Sechrist 3200 Chamber	20354	Chamber Cover, 3200/3300E/3300H, Blue	1	Yes
+2	1	Sechrist 3300E Chamber	20354	Chamber Cover, 3200/3300E/3300H, Blue	1	Yes
+3	2	Sechrist 3300H Chamber	20354	Chamber Cover, 3200/3300E/3300H, Blue	1	Yes
+4	4	Sechrist 3600E Chamber	20479	Chamber Cover, 3600E/3600H, Blue	1	Yes
+5	5	Sechrist 3600H Chamber	20479	Chamber Cover, 3600E/3600H, Blue	1	Yes
+6	3	Sechrist 3200 Chamber	20492	Chamber Cover, 3200/3300E/3300H, White	1	Yes
+7	1	Sechrist 3300E Chamber	20492	Chamber Cover, 3200/3300E/3300H, White	1	Yes
+8	2	Sechrist 3300H Chamber	20492	Chamber Cover, 3200/3300E/3300H, White	1	Yes
+9	4	Sechrist 3600E Chamber	20493	Chamber Cover, 3600E/3600H, White	1	Yes
+10	5	Sechrist 3600H Chamber	20493	Chamber Cover, 3600E/3600H, White	1	Yes
+11	7	Sechrist 4100H Chamber	20525	Chamber Cover, 4100H, Blue	1	Yes
+12	7	Sechrist 4100H Chamber	20527	Chamber Cover, 4100H, White	1	Yes
+13	3	Sechrist 3200 Chamber	21470	Kit, Demand Valve assy (diaphragm, or Inhale/Exhale valve)	2	No
+14	6	Perry Chamber	21470	Kit, Demand Valve assy (diaphragm, or Inhale/Exhale valve)	2	No
+15	7	Sechrist 4100H Chamber	21470	Kit, Demand Valve assy (diaphragm, or Inhale/Exhale valve)	2	No
+16	1	Sechrist 3300E Chamber	21470	Kit, Demand Valve assy (diaphragm, or Inhale/Exhale valve)	2	No
+17	2	Sechrist 3300H Chamber	21470	Kit, Demand Valve assy (diaphragm, or Inhale/Exhale valve)	2	No
+18	4	Sechrist 3600E Chamber	21470	Kit, Demand Valve assy (diaphragm, or Inhale/Exhale valve)	2	No
+19	5	Sechrist 3600H Chamber	21470	Kit, Demand Valve assy (diaphragm, or Inhale/Exhale valve)	2	No
+20	3	Sechrist 3200 Chamber	21471	Kit, Demand Valve Cover (clear screw cap)	2	No
+21	6	Perry Chamber	21471	Kit, Demand Valve Cover (clear screw cap)	2	No
+22	7	Sechrist 4100H Chamber	21471	Kit, Demand Valve Cover (clear screw cap)	2	No
+23	1	Sechrist 3300E Chamber	21471	Kit, Demand Valve Cover (clear screw cap)	2	No
+24	2	Sechrist 3300H Chamber	21471	Kit, Demand Valve Cover (clear screw cap)	2	No
+25	4	Sechrist 3600E Chamber	21471	Kit, Demand Valve Cover (clear screw cap)	2	No
+26	5	Sechrist 3600H Chamber	21471	Kit, Demand Valve Cover (clear screw cap)	2	No
+27	3	Sechrist 3200 Chamber	21570	Exterior Air Break hose	1	No
+28	7	Sechrist 4100H Chamber	21570	Exterior Air Break hose	1	No
+29	1	Sechrist 3300E Chamber	21570	Exterior Air Break hose	1	No
+30	2	Sechrist 3300H Chamber	21570	Exterior Air Break hose	1	No
+31	4	Sechrist 3600E Chamber	21570	Exterior Air Break hose	1	No
+32	5	Sechrist 3600H Chamber	21570	Exterior Air Break hose	1	No
+33	3	Sechrist 3200 Chamber	21571	Interior Air break hose	1	No
+34	7	Sechrist 4100H Chamber	21571	Interior Air break hose	1	No
+35	1	Sechrist 3300E Chamber	21571	Interior Air break hose	1	No
+36	2	Sechrist 3300H Chamber	21571	Interior Air break hose	1	No
+37	4	Sechrist 3600E Chamber	21571	Interior Air break hose	1	No
+38	5	Sechrist 3600H Chamber	21571	Interior Air break hose	1	No
+39	3	Sechrist 3200 Chamber	21670	Free Flow Air Break Exterior Hose	1	Yes
+40	1	Sechrist 3300E Chamber	21670	Free Flow Air Break Exterior Hose	1	Yes
+41	2	Sechrist 3300H Chamber	21670	Free Flow Air Break Exterior Hose	1	Yes
+42	4	Sechrist 3600E Chamber	21670	Free Flow Air Break Exterior Hose	1	Yes
+43	5	Sechrist 3600H Chamber	21670	Free Flow Air Break Exterior Hose	1	Yes
+44	7	Sechrist 4100H Chamber	21670	Free Flow Air Break Exterior Hose	1	Yes
+45	3	Sechrist 3200 Chamber	22193	TCOM cable set, int. and ext.	1	Yes
+46	7	Sechrist 4100H Chamber	22193	TCOM cable set, int. and ext.	1	Yes
+47	1	Sechrist 3300E Chamber	22193	TCOM cable set, int. and ext.	1	Yes
+48	2	Sechrist 3300H Chamber	22193	TCOM cable set, int. and ext.	1	Yes
+49	4	Sechrist 3600E Chamber	22193	TCOM cable set, int. and ext.	1	Yes
+50	5	Sechrist 3600H Chamber	22193	TCOM cable set, int. and ext.	1	Yes
+51	3	Sechrist 3200 Chamber	22194	Cable Set, TCOM, w/ door penetrator	1	Yes
+52	7	Sechrist 4100H Chamber	22194	Cable Set, TCOM, w/ door penetrator	1	Yes
+53	1	Sechrist 3300E Chamber	22194	Cable Set, TCOM, w/ door penetrator	1	Yes
+54	2	Sechrist 3300H Chamber	22194	Cable Set, TCOM, w/ door penetrator	1	Yes
+55	4	Sechrist 3600E Chamber	22194	Cable Set, TCOM, w/ door penetrator	1	Yes
+56	5	Sechrist 3600H Chamber	22194	Cable Set, TCOM, w/ door penetrator	1	Yes
+57	3	Sechrist 3200 Chamber	44081	Handset w/o cord	1	No
+58	7	Sechrist 4100H Chamber	44081	Handset w/o cord	1	No
+59	1	Sechrist 3300E Chamber	44081	Handset w/o cord	1	No
+60	2	Sechrist 3300H Chamber	44081	Handset w/o cord	1	No
+61	4	Sechrist 3600E Chamber	44081	Handset w/o cord	1	No
+62	5	Sechrist 3600H Chamber	44081	Handset w/o cord	1	No
+63	3	Sechrist 3200 Chamber	44160	Door Gasket (3200/3300E/3300H)	1	No
+64	1	Sechrist 3300E Chamber	44160	Door Gasket (3200/3300E/3300H)	1	No
+65	2	Sechrist 3300H Chamber	44160	Door Gasket (3200/3300E/3300H)	1	No
+66	4	Sechrist 3600E Chamber	44262	Door Gasket (3600E/3600H)	1	No
+67	5	Sechrist 3600H Chamber	44262	Door Gasket (3600E/3600H)	1	No
+68	7	Sechrist 4100H Chamber	44277	Door Gasket (4100H)	1	No
+69	3	Sechrist 3200 Chamber	52066	Cord, Handset	1	No
+70	7	Sechrist 4100H Chamber	52066	Cord, Handset	1	No
+71	1	Sechrist 3300E Chamber	52066	Cord, Handset	1	No
+72	2	Sechrist 3300H Chamber	52066	Cord, Handset	1	No
+73	4	Sechrist 3600E Chamber	52066	Cord, Handset	1	No
+74	5	Sechrist 3600H Chamber	52066	Cord, Handset	1	No
+75	3	Sechrist 3200 Chamber	80336	Ohm Meter	1	No
+76	6	Perry Chamber	80336	Ohm Meter	1	No
+77	7	Sechrist 4100H Chamber	80336	Ohm Meter	1	No
+78	1	Sechrist 3300E Chamber	80336	Ohm Meter	1	No
+79	2	Sechrist 3300H Chamber	80336	Ohm Meter	1	No
+80	4	Sechrist 3600E Chamber	80336	Ohm Meter	1	No
+81	5	Sechrist 3600H Chamber	80336	Ohm Meter	1	No
+82	3	Sechrist 3200 Chamber	20554-3	TV Mount System Univ. 32/33/36, NAXA TV w/Built In DVD	1	Yes
+83	1	Sechrist 3300E Chamber	20554-3	TV Mount System Univ. 32/33/36, NAXA TV w/Built In DVD	1	Yes
+84	2	Sechrist 3300H Chamber	20554-3	TV Mount System Univ. 32/33/36, NAXA TV w/Built In DVD	1	Yes
+85	4	Sechrist 3600E Chamber	20554-3	TV Mount System Univ. 32/33/36, NAXA TV w/Built In DVD	1	Yes
+86	5	Sechrist 3600H Chamber	20554-3	TV Mount System Univ. 32/33/36, NAXA TV w/Built In DVD	1	Yes
+87	3	Sechrist 3200 Chamber	20558-01	Air break breathing assembly - Free Flow	1	Yes
+88	6	Perry Chamber	20558-01	Air break breathing assembly - Free Flow	1	Yes
+89	7	Sechrist 4100H Chamber	20558-01	Air break breathing assembly - Free Flow	1	Yes
+90	1	Sechrist 3300E Chamber	20558-01	Air break breathing assembly - Free Flow	1	Yes
+91	2	Sechrist 3300H Chamber	20558-01	Air break breathing assembly - Free Flow	1	Yes
+92	4	Sechrist 3600E Chamber	20558-01	Air break breathing assembly - Free Flow	1	Yes
+93	5	Sechrist 3600H Chamber	20558-01	Air break breathing assembly - Free Flow	1	Yes
+94	7	Sechrist 4100H Chamber	20561-3	TV Mount System Univ.4100, NAXA TV w/Built In DVD	1	Yes
+95	3	Sechrist 3200 Chamber	21583-3	TV Replacement Kit, 22" w/ DVD	1	Yes
+96	7	Sechrist 4100H Chamber	21583-3	TV Replacement Kit, 22" w/ DVD	1	Yes
+97	1	Sechrist 3300E Chamber	21583-3	TV Replacement Kit, 22" w/ DVD	1	Yes
+98	2	Sechrist 3300H Chamber	21583-3	TV Replacement Kit, 22" w/ DVD	1	Yes
+99	4	Sechrist 3600E Chamber	21583-3	TV Replacement Kit, 22" w/ DVD	1	Yes
+100	5	Sechrist 3600H Chamber	21583-3	TV Replacement Kit, 22" w/ DVD	1	Yes
+101	3	Sechrist 3200 Chamber	21623-3	Naxa (New TV/DVD) replacement, TV only	1	Yes
+102	7	Sechrist 4100H Chamber	21623-3	Naxa (New TV/DVD) replacement, TV only	1	Yes
+103	1	Sechrist 3300E Chamber	21623-3	Naxa (New TV/DVD) replacement, TV only	1	Yes
+104	2	Sechrist 3300H Chamber	21623-3	Naxa (New TV/DVD) replacement, TV only	1	Yes
+105	4	Sechrist 3600E Chamber	21623-3	Naxa (New TV/DVD) replacement, TV only	1	Yes
+106	5	Sechrist 3600H Chamber	21623-3	Naxa (New TV/DVD) replacement, TV only	1	Yes
+107	3	Sechrist 3200 Chamber	D-09028	Ground Bracelet	20	No
+108	6	Perry Chamber	D-09028	Ground Bracelet	20	No
+109	7	Sechrist 4100H Chamber	D-09028	Ground Bracelet	20	No
+110	1	Sechrist 3300E Chamber	D-09028	Ground Bracelet	20	No
+111	2	Sechrist 3300H Chamber	D-09028	Ground Bracelet	20	No
+112	4	Sechrist 3600E Chamber	D-09028	Ground Bracelet	20	No
+113	5	Sechrist 3600H Chamber	D-09028	Ground Bracelet	20	No
+114	3	Sechrist 3200 Chamber	D-09680	Ground Cord	20	No
+115	6	Perry Chamber	D-09680	Ground Cord	20	No
+116	7	Sechrist 4100H Chamber	D-09680	Ground Cord	20	No
+117	1	Sechrist 3300E Chamber	D-09680	Ground Cord	20	No
+118	2	Sechrist 3300H Chamber	D-09680	Ground Cord	20	No
+119	4	Sechrist 3600E Chamber	D-09680	Ground Cord	20	No
+120	5	Sechrist 3600H Chamber	D-09680	Ground Cord	20	No
+121	3	Sechrist 3200 Chamber	D-12525T2	Digital Timer	2	No
+122	6	Perry Chamber	D-12525T2	Digital Timer	2	No
+123	7	Sechrist 4100H Chamber	D-12525T2	Digital Timer	2	No
+124	1	Sechrist 3300E Chamber	D-12525T2	Digital Timer	2	No
+125	2	Sechrist 3300H Chamber	D-12525T2	Digital Timer	2	No
+126	4	Sechrist 3600E Chamber	D-12525T2	Digital Timer	2	No
+127	5	Sechrist 3600H Chamber	D-12525T2	Digital Timer	2	No
+128	3	Sechrist 3200 Chamber	D-400895-99	TCOM wedge	1	No
+129	6	Perry Chamber	D-400895-99	TCOM wedge	1	No
+130	7	Sechrist 4100H Chamber	D-400895-99	TCOM wedge	1	No
+131	1	Sechrist 3300E Chamber	D-400895-99	TCOM wedge	1	No
+132	2	Sechrist 3300H Chamber	D-400895-99	TCOM wedge	1	No
+133	4	Sechrist 3600E Chamber	D-400895-99	TCOM wedge	1	No
+134	5	Sechrist 3600H Chamber	D-400895-99	TCOM wedge	1	No
+135	3	Sechrist 3200 Chamber	20505	Mattress	1	Yes
+136	1	Sechrist 3300E Chamber	20505	Mattress	1	Yes
+137	2	Sechrist 3300H Chamber	20505	Mattress	1	Yes
+138	4	Sechrist 3600E Chamber	20505	Mattress	1	Yes
+139	5	Sechrist 3600H Chamber	20505	Mattress	1	Yes
+140	7	Sechrist 4100H Chamber	20505	Mattress	1	Yes
+141	6	Perry Chamber	D-AF4x21x75	Perry Mattress	1	Yes
+142	3	Sechrist 3200 Chamber	D-CRF 401092-93	Pillows	4	No
+143	6	Perry Chamber	D-CRF 401092-93	Pillows	4	No
+144	7	Sechrist 4100H Chamber	D-CRF 401092-93	Pillows	4	No
+145	1	Sechrist 3300E Chamber	D-CRF 401092-93	Pillows	4	No
+146	2	Sechrist 3300H Chamber	D-CRF 401092-93	Pillows	4	No
+147	4	Sechrist 3600E Chamber	D-CRF 401092-93	Pillows	4	No
+148	5	Sechrist 3600H Chamber	D-CRF 401092-93	Pillows	4	No
+149	3	Sechrist 3200 Chamber	D-M-064B-2	Halocarbon grease	1	No
+150	6	Perry Chamber	D-M-064B-2	Halocarbon grease	1	No
+151	7	Sechrist 4100H Chamber	D-M-064B-2	Halocarbon grease	1	No
+152	1	Sechrist 3300E Chamber	D-M-064B-2	Halocarbon grease	1	No
+153	2	Sechrist 3300H Chamber	D-M-064B-2	Halocarbon grease	1	No
+154	4	Sechrist 3600E Chamber	D-M-064B-2	Halocarbon grease	1	No
+155	5	Sechrist 3600H Chamber	D-M-064B-2	Halocarbon grease	1	No
+156	3	Sechrist 3200 Chamber	D-M1-346-PGH	Air Regulator	1	No
+157	6	Perry Chamber	D-M1-346-PGH	Air Regulator	1	No
+158	7	Sechrist 4100H Chamber	D-M1-346-PGH	Air Regulator	1	No
+159	1	Sechrist 3300E Chamber	D-M1-346-PGH	Air Regulator	1	No
+160	2	Sechrist 3300H Chamber	D-M1-346-PGH	Air Regulator	1	No
+161	4	Sechrist 3600E Chamber	D-M1-346-PGH	Air Regulator	1	No
+162	5	Sechrist 3600H Chamber	D-M1-346-PGH	Air Regulator	1	No
+163	3	Sechrist 3200 Chamber	D-M-3320A	Talc powder	1	No
+164	6	Perry Chamber	D-M-3320A	Talc powder	1	No
+165	7	Sechrist 4100H Chamber	D-M-3320A	Talc powder	1	No
+166	1	Sechrist 3300E Chamber	D-M-3320A	Talc powder	1	No
+167	2	Sechrist 3300H Chamber	D-M-3320A	Talc powder	1	No
+168	4	Sechrist 3600E Chamber	D-M-3320A	Talc powder	1	No
+169	5	Sechrist 3600H Chamber	D-M-3320A	Talc powder	1	No
+170	3	Sechrist 3200 Chamber	D-XGOKIT	Smoke Mask Kit	2	No
+171	6	Perry Chamber	D-XGOKIT	Smoke Mask Kit	2	No
+172	7	Sechrist 4100H Chamber	D-XGOKIT	Smoke Mask Kit	2	No
+173	1	Sechrist 3300E Chamber	D-XGOKIT	Smoke Mask Kit	2	No
+174	2	Sechrist 3300H Chamber	D-XGOKIT	Smoke Mask Kit	2	No
+175	4	Sechrist 3600E Chamber	D-XGOKIT	Smoke Mask Kit	2	No
+176	5	Sechrist 3600H Chamber	D-XGOKIT	Smoke Mask Kit	2	No
+177	3	Sechrist 3200 Chamber	D-XSMO5	Smoke Mask Replacement	2	No
+178	6	Perry Chamber	D-XSMO5	Smoke Mask Replacement	2	No
+179	7	Sechrist 4100H Chamber	D-XSMO5	Smoke Mask Replacement	2	No
+180	1	Sechrist 3300E Chamber	D-XSMO5	Smoke Mask Replacement	2	No
+181	2	Sechrist 3300H Chamber	D-XSMO5	Smoke Mask Replacement	2	No
+182	4	Sechrist 3600E Chamber	D-XSMO5	Smoke Mask Replacement	2	No
+183	5	Sechrist 3600H Chamber	D-XSMO5	Smoke Mask Replacement	2	No
+184	3	Sechrist 3200 Chamber	HB238-09	3 way valve	1	No
+185	7	Sechrist 4100H Chamber	HB238-09	3 way valve	1	No
+186	1	Sechrist 3300E Chamber	HB238-09	3 way valve	1	No
+187	2	Sechrist 3300H Chamber	HB238-09	3 way valve	1	No
+188	4	Sechrist 3600E Chamber	HB238-09	3 way valve	1	No
+189	5	Sechrist 3600H Chamber	HB238-09	3 way valve	1	No
+190	3	Sechrist 3200 Chamber	HB601-06D	Track Guide Bumper (10 pack)	1	No
+191	7	Sechrist 4100H Chamber	HB601-06D	Track Guide Bumper (10 pack)	1	No
+192	1	Sechrist 3300E Chamber	HB601-06D	Track Guide Bumper (10 pack)	1	No
+193	2	Sechrist 3300H Chamber	HB601-06D	Track Guide Bumper (10 pack)	1	No
+194	4	Sechrist 3600E Chamber	HB601-06D	Track Guide Bumper (10 pack)	1	No
+195	5	Sechrist 3600H Chamber	HB601-06D	Track Guide Bumper (10 pack)	1	No
+196	6	Perry Chamber	HGTK-607	Ground Test Cord (clip/clip)	1	Yes
+197	8	Perry Plus Chamber	D-B-901013	Perry 34 Door Gasket	1	No
+198	6	Perry Chamber	D-B-902488	Perry Power Supply	1	Yes
+199	6	Perry Chamber	D-D-903465	Battery, Amron Power Supply	1	No
+200	6	Perry Chamber	D-621-0402	Perry Cycle Counter	1	No
+201	6	Perry Chamber	D-CUB3LR00	Perry Handset	1	No
+202	6	Perry Chamber	D-P-10243	Perry Plus Door Gasket	1	
+203	2		54	Cable Set, TCOM, w/ door penetrator	1	
+204	5		43	Free Flow Air Break Exterior Hose	1	
