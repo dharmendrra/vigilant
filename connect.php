@@ -2,7 +2,7 @@
 if($_SERVER['SERVER_ADDR']!='127.0.0.1' && $_SERVER['HTTP_HOST']!='localhost'){    
        // Using mysqli (connecting from App Engine)
     // Using mysqli (connecting from App Engine)
-    $mysqli = new mysqli("localhost", "dharmendra2014", "Map4noone!", "parts_ordering_staging");
+    $mysqli = new mysqli("localhost", "dharmendra2014", "Map4noone!", "parts_ordering");
     if ($mysqli->connect_errno) {
         echo "Failed to connect to MySQL Livess: (" . $mysqli->connect_errno . ") " . $mysqli->connect_error;
     }
