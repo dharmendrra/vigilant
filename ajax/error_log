@@ -1,0 +1,21 @@
+[03-May-2015 05:28:08 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/dharmendra2014/public_html/parts-ordering/ajax/status-update.php on line 63
+[03-May-2015 05:29:39 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/dharmendra2014/public_html/parts-ordering/ajax/status-update.php on line 63
+[03-May-2015 05:31:41 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/dharmendra2014/public_html/parts-ordering/ajax/status-update.php on line 65
+[05-May-2015 20:18:33 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/dharmendra2014/public_html/parts-ordering/ajax/status-update.php on line 63
+[05-May-2015 20:18:38 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/dharmendra2014/public_html/parts-ordering/ajax/status-update.php on line 63
+[05-May-2015 21:06:54 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/dharmendra2014/public_html/parts-ordering/ajax/status-update.php on line 63
+[05-May-2015 21:06:55 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/dharmendra2014/public_html/parts-ordering/ajax/status-update.php on line 63
+[05-May-2015 21:07:04 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/dharmendra2014/public_html/parts-ordering/ajax/status-update.php on line 63
+[05-May-2015 21:07:05 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/dharmendra2014/public_html/parts-ordering/ajax/status-update.php on line 63
+[05-May-2015 21:07:06 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/dharmendra2014/public_html/parts-ordering/ajax/status-update.php on line 63
+[05-May-2015 21:07:07 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/dharmendra2014/public_html/parts-ordering/ajax/status-update.php on line 63
+[05-May-2015 21:07:07 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/dharmendra2014/public_html/parts-ordering/ajax/status-update.php on line 63
+[05-May-2015 21:07:11 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/dharmendra2014/public_html/parts-ordering/ajax/status-update.php on line 63
+[05-May-2015 21:07:30 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/dharmendra2014/public_html/parts-ordering/ajax/status-update.php on line 63
+[05-May-2015 21:07:31 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/dharmendra2014/public_html/parts-ordering/ajax/status-update.php on line 63
+[05-May-2015 21:07:39 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/dharmendra2014/public_html/parts-ordering/ajax/status-update.php on line 63
+[05-May-2015 21:07:39 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/dharmendra2014/public_html/parts-ordering/ajax/status-update.php on line 63
+[05-May-2015 21:07:42 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/dharmendra2014/public_html/parts-ordering/ajax/status-update.php on line 63
+[05-May-2015 21:07:44 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/dharmendra2014/public_html/parts-ordering/ajax/status-update.php on line 63
+[05-May-2015 21:07:45 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/dharmendra2014/public_html/parts-ordering/ajax/status-update.php on line 63
+[06-May-2015 03:53:55 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/dharmendra2014/public_html/parts-ordering/ajax/status-update.php on line 63
